@@ -2,3 +2,4 @@ TA-ms_loganalytics/local
 TA-ms_loganalytics/metadata/local.meta
 __pycache__/
 *.pyc
+dist/
